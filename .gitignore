@@ -1,1 +1,3 @@
-/.DS_Store
+.DS_Store
+__pycache__/
+/nba_scraper/nba_scraper/spiders/player_list.csv
